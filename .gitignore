@@ -1,0 +1,19 @@
+# mac
+.DS_Store
+
+# pycharm
+.idea/
+
+# Compiled files
+*.tfstate
+*.tfstate.backup
+.terraform.tfstate.lock.info
+*.tfvars
+
+# Module directory
+.terraform/
+
+# py
+__pycache__
+.pyc
+./__pycache__
